@@ -118,7 +118,7 @@ After the user clicks **Predict Insurance Cost**, the trained model displays the
 
 Replace this line with your deployed Streamlit application URL:
 
-PASTE_YOUR_STREAMLIT_APP_URL_HERE
+https://medical-insurance-cost-prediction-9.streamlit.app/
 
 ## How to Run Locally
 
